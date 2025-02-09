@@ -1,0 +1,4 @@
+<launch>
+    <node name="mainodom" pkg="dead_reckoning" type="mainOdom.py" output="screen">
+    </node>
+</launch>
